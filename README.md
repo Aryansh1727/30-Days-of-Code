@@ -1,5 +1,8 @@
 # HackerRank – 30 Days of Code
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![HackerRank](https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-brightgreen?logo=hackerrank)
+
 This repository contains my solutions to the **HackerRank 30 Days of Code** challenge, written in **Python**.
 
 The goal of this challenge is to practice coding consistently and strengthen my understanding of **Python fundamentals, problem-solving, algorithms, and data structures** through daily coding problems.
