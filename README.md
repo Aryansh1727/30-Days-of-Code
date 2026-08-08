@@ -1,6 +1,6 @@
 # HackerRank – 30 Days of Code
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![HackerRank](https://img.shields.io/badge/HackerRank-30%20Days%20of%20Code-brightgreen?logo=hackerrank)
 
 This repository contains my solutions to the **HackerRank 30 Days of Code** challenge, written in **Python**.
