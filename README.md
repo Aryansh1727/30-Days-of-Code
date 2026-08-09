@@ -34,5 +34,3 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 ## 📌 About This Repository
 
 I will be adding my solution for each day as I progress through the challenge. This repository will serve as a record of my **30-day coding practice and learning journey**.
-
-> Started: **Day 0** 🚀
