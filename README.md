@@ -20,7 +20,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day   | Challenge              | Status      |
 | ----- | ---------------------- | ----------- |
 | Day 0 | Hello, World.          | ✅ Completed |
-| Day 1 | Data Types             | ⏳ Upcoming  |
+| Day 1 | Data Types             | ✅ Completed  |
 | Day 2 | Operators              | ⏳ Upcoming  |
 | Day 3 | Conditional Statements | ⏳ Upcoming  |
 | Day 4 | Class vs. Instance     | ⏳ Upcoming  |
