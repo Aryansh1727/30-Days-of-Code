@@ -25,6 +25,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day 3 | Conditional Statements | ✅ Completed  |
 | Day 4 | Class vs. Instance     | ✅ Completed  |
 | Day 5 | Loops                  | ✅ Completed  |
+| Day 6 | Lets Review            | ✅ Completed  |
 | ...   | ...                    | ⏳           |
 
 ## 🛠️ Tech Used
