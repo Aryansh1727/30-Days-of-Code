@@ -27,6 +27,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day 5 | Loops                  | ✅ Completed  |
 | Day 6 | Lets Review            | ✅ Completed  |
 | Day 7 | Arrays                 | ✅ Completed  |
+| Day 8 | Dictionaries and Maps  | ✅ Completed  |
 | ...   | ...                    | ⏳           |
 
 ## 🛠️ Tech Used
