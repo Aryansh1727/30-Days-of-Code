@@ -29,6 +29,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day 7 | Arrays                 | ✅ Completed  |
 | Day 8 | Dictionaries and Maps  | ✅ Completed  |
 | Day 9 | Recursion 3            | ✅ Completed  |
+| Day10 | Binary Numbers         | ✅ Completed  |
 | ...   | ...                    | ⏳           |
 
 ## 🛠️ Tech Used
