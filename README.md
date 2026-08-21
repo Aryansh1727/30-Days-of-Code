@@ -17,9 +17,9 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 
 ## 📅 Progress
 
-| Day   | Challenge              | Status      |
-| ----- | ---------------------- | ----------- |
-| Day 0 | Hello, World.          | ✅ Completed |
+| Day   | Challenge              | Status        |
+| ----- | ---------------------- | ----------    |
+| Day 0 | Hello, World.          | ✅ Completed  |
 | Day 1 | Data Types             | ✅ Completed  |
 | Day 2 | Operators              | ✅ Completed  |
 | Day 3 | Conditional Statements | ✅ Completed  |
@@ -31,7 +31,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day 9 | Recursion 3            | ✅ Completed  |
 | Day10 | Binary Numbers         | ✅ Completed  |
 | Day11 | 2D Arrays              | ✅ Completed  |
-| Day12 | Inheritance              | ✅ Completed  |
+| Day12 | Inheritance            | ✅ Completed  |
 | ...   | ...                    | ⏳            |
 
 ## 🛠️ Tech Used
