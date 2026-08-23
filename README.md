@@ -33,6 +33,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day11 | 2D Arrays              | ✅ Completed  |
 | Day12 | Inheritance            | ✅ Completed  |
 | Day13 | Abstract Class         | ✅ Completed  |
+| Day14 | Scope          | ✅ Completed  |
 | ...   | ...                    | ⏳            |
 
 ## 🛠️ Tech Used
