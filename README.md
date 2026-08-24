@@ -34,7 +34,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day12 | Inheritance            | ✅ Completed  |
 | Day13 | Abstract Class         | ✅ Completed  |
 | Day14 | Scope                  | ✅ Completed  |
-| Day14 | Linked List            | ✅ Completed  |
+| Day15 | Linked List            | ✅ Completed  |
 | ...   | ...                    | ⏳            |
 
 ## 🛠️ Tech Used
