@@ -37,6 +37,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day15 | Linked List                  | ✅ Completed  |
 | Day16 | Exceptions- String to Integer| ✅ Completed  |
 | Day17 | More Exceptions              | ✅ Completed  |
+| Day18 | Queues and Stacks            | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
