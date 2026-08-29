@@ -39,6 +39,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day17 | More Exceptions              | ✅ Completed  |
 | Day18 | Queues and Stacks            | ✅ Completed  |
 | Day19 | Interfaces                   | ✅ Completed  |
+| Day20 | Sorting                      | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
