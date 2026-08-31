@@ -41,6 +41,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day19 | Interfaces                   | ✅ Completed  |
 | Day20 | Sorting                      | ✅ Completed  |
 | Day21 | Generics                     | ✅ Completed  |
+| Day22 | Binary Search Trees          | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
