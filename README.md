@@ -42,6 +42,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day20 | Sorting                      | ✅ Completed  |
 | Day21 | Generics                     | ✅ Completed  |
 | Day22 | Binary Search Trees          | ✅ Completed  |
+| Day23 | BST Level-Order Traversal    | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
