@@ -48,6 +48,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 ## 🛠️ Tech Used
 
 * **Python 3**
+* **Java 15**
 * **HackerRank**
 
 ## 📌 About This Repository
