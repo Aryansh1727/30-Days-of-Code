@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Day21_Generics {
     public static <T> void printArray(T[] array) {
         for (T element : array) {
             System.out.println(element);
