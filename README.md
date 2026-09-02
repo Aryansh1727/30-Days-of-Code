@@ -43,6 +43,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day21 | Generics                     | ✅ Completed  |
 | Day22 | Binary Search Trees          | ✅ Completed  |
 | Day23 | BST Level-Order Traversal    | ✅ Completed  |
+| Day24 | More Linked Lists            | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
