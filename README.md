@@ -44,6 +44,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day22 | Binary Search Trees          | ✅ Completed  |
 | Day23 | BST Level-Order Traversal    | ✅ Completed  |
 | Day24 | More Linked Lists            | ✅ Completed  |
+| Day25 | Running Time and Complexity  | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
