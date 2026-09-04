@@ -45,6 +45,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day23 | BST Level-Order Traversal    | ✅ Completed  |
 | Day24 | More Linked Lists            | ✅ Completed  |
 | Day25 | Running Time and Complexity  | ✅ Completed  |
+| Day26 | Nested Logic                 | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
