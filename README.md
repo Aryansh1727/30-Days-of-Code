@@ -46,6 +46,7 @@ The goal of this challenge is to practice coding consistently and strengthen my 
 | Day24 | More Linked Lists            | ✅ Completed  |
 | Day25 | Running Time and Complexity  | ✅ Completed  |
 | Day26 | Nested Logic                 | ✅ Completed  |
+| Day27 | Testing                      | ✅ Completed  |
 | ...   | ...                         | ⏳            |
 
 ## 🛠️ Tech Used
