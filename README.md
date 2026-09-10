@@ -14,7 +14,7 @@ The goal of this challenge was to practice coding consistently and strengthen my
 * Improve problem-solving and logical thinking
 * Strengthen Python fundamentals
 * Practice data structure and algorithms
-* * Learn and apply different programming concepts
+* Learn and apply different programming concepts
 * Build consistency through daily solving programming problems
 
 ## 📅 Progress
