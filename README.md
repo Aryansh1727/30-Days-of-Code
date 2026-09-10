@@ -20,7 +20,7 @@ The goal of this challenge was to practice coding consistently and strengthen my
 ## 📅 Progress
 
 | Day    | Challenge                                | Language | Status       |
-| -----_ | ---------------------------------------- | -------- | ------------ |
+| ------ | ---------------------------------------- | -------- | ------------ |
 | Day 0  | Hello, World.                            | Python   | ✅ Completed |
 | Day 1  | Data Types                               | Python   | ✅ Completed |
 | Day 2  | Operators                                | Python   | ✅ Completed |
